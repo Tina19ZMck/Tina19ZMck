@@ -1,0 +1,50 @@
+What are the most common cyber attacks?
+A cyber attack is a malicious act by an individual or organization to deliberately disrupt the information systems of other individuals or organizations. Typically, the attacker's goal is to gain some sort of profit by disrupting the victim's network
+How Cyber Attacks Work
+How often do cyber attacks occur?
+Companies are subject to cyberattacks every day. John Chambers, former CEO of Cisco, once said, "Companies fall into two categories: those that are already suffering from hacks, and those that don't yet know they've been hacked." According to Cisco's annual cybersecurity report, the total number of cybersecurity incidents almost quadrupled from January 2016 to October 2017.
+
+Why do people launch cyber attacks?
+The number of cybercrimes increases year after year because criminals attempt to profit from vulnerable corporate systems. Attackers often demand ransom: 53% of cyber attacks result in $500,000 or more in damages.
+
+There are also cyber threats that may have ulterior motives. For example, some attackers aim to delete systems and data, which they see as a form of "hacktivism.
+
+Introduction to botnets
+A botnet is a network of devices infected with malware such as viruses. An attacker can take control of a botnet as a whole, without the knowledge of the device owner, in order to increase the intensity of the attack. Typically, botnets are used in distributed denial-of-service (DDoS) attacks to exhaust system resources to overwhelm them.
+
+Common types of cyber attacks
+Malware
+The term "malware" is used to describe software with sinister intent, including spyware, ransomware, viruses and worms. Malware typically penetrates a network through a vulnerability when a user clicks on a dangerous link or email attachment, which then installs dangerous software. Once inside a system, malware performs the following actions.
+
+Block access to critical components of the network (ransomware)
+Install malware or other harmful software
+Obtain information covertly by transferring data from the hard drive (spyware)
+Corrupting certain components and rendering the system inoperable
+Phishing
+Phishing is the act of sending fraudulent communications that often appear to originate from reputable sources, usually via email. Its purpose is to steal sensitive data such as credit card and login information or to install malware on the victim's device. Phishing is an increasingly common cyber threat today.
+
+Introduction to Phishing
+
+Man-in-the-Middle Attacks
+A man-in-the-middle (MitM) attack, also known as an eavesdropping attack, is an attack that occurs when an attacker inserts himself into a transaction between two parties. After the attacker interrupts the traffic, they filter and steal data.
+
+MitM attacks have two common entry points.
+
+1. In an unsecured public Wi-Fi network, an attacker can insert themselves between a visitor's device and the network. Unknowingly, all of the visitor's information is transmitted via the attacker. 2.
+
+2. After the malware has compromised the device, the attacker can install software to process all the victim's information.
+
+Denial of Service Attacks
+A denial-of-service attack uses a large amount of traffic to launch a flooding attack on a system, server, or network, causing it to run out of resources and bandwidth, ultimately making the system unable to satisfy legitimate requests. An attacker can also use multiple infected devices to launch this attack. This attack is also known as a distributed denial of service (DDoS) attack.
+
+SQL Injection
+A SQL injection attack occurs when an attacker inserts malicious code into a server that uses Structured Query Language (SQL) and forces the server to reveal information that it would not normally reveal. An attacker can execute a SQL injection attack by simply submitting malicious code in the search box of a vulnerable website.
+
+Learn how to defend against SQL injection attacks.
+
+Zero-Day Vulnerability Attacks
+A zero-day exploit attack occurs after a network vulnerability has been announced but before a patch or solution has been implemented. Attackers target disclosed vulnerabilities during this time. Zero-day vulnerability threat detection requires constant vigilance.
+
+DNS Tunneling
+DNS tunneling uses the DNS protocol to communicate non-DNS traffic on port 53. It sends HTTP and other protocol traffic over DNS. There are various legitimate reasons for using DNS tunnels. However, there are cases where DNS tunneling VPN services are used for malicious reasons. An attacker may use DNS tunnels to disguise outbound traffic as DNS, hiding data that would normally be shared over an Internet connection. When used for malicious purposes, the attacker manipulates DNS requests to leak data from the infected system to the attacker's infrastructure. In addition, attackers use it for command and control callbacks from the attacker's infrastructure to the infected system.
+
